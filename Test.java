@@ -14,10 +14,9 @@ public class Test {
 		
 		int count = 0;
 		
-		for (int i=0; i<10; i++) {
+		for (int i=0; i<1000000; i++) {
 			count = x * y * x * y;
-			System.out.println("count: " + count);'
-			Sdisamlsdapnmkpjophioiijohunhniioioj
+			System.out.println("count: " + count);
 		}
 	}
 }
